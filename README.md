@@ -1,28 +1,26 @@
-<![CDATA[# 👋 Привет, я looapz!
+<![CDATA[# looapz 🔭
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZlNzRkZDRkMzZlMzRiMzRkMzRkMzRkMzRkMzRkMzRkMzRkMzRkMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
-</div>
+### Привет, мир! 👋 
 
-<div align="center">
-  <a href="https://t.me/your_telegram_username">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+💬 Разработчик и энтузиаст технологий.
 
-## 👨‍💻 Обо мне
+> ⚡ Увлечен созданием полезных инструментов, автоматизацией и анализом данных.
 
-Я разработчик, увлеченный созданием полезных инструментов и приложений. Мне нравится изучать новые технологии и применять их для решения реальных задач.
+* 🐱 Любитель котиков
+* 🌍 Русский / Английский
+* 💻 Программист / Разработчик / Инженер
+* 📱 Разработчик Telegram ботов
+* 📷 Любитель фотографии и анализа метаданных изображений
+* 🎮 Геймер в свободное время
+* 🤖 Интересуюсь ИИ и машинным обучением
 
-- 🔭 В настоящее время я работаю над различными проектами на Python
-- 🌱 Изучаю машинное обучение и искусственный интеллект
-- 💬 Спрашивайте меня о Python, Telegram ботах и автоматизации
-- ⚡ Интересный факт: Я люблю фотографию и анализ метаданных изображений
+💖 Стремлюсь создавать полезные и удобные инструменты для решения повседневных задач!
 
-## 🛠️ Языки и инструменты
+😄 В настоящее время работаю над различными проектами на Python и изучаю новые технологии.
+
+🤔 Ознакомьтесь с моими проектами ниже или подпишитесь, нажав кнопку "Follow".
+
+## 🌱 Языки программирования и инструменты
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -45,17 +43,51 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=looapz&theme=dark" alt="GitHub Streak" />
 </div>
 
-## 🏆 Мои проекты
+## 📫 Связаться со мной
+
+<div align="center">
+  <a href="https://t.me/your_telegram_username">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+## 💻 Рабочее окружение
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+</div>
+
+## 📱 Используемые устройства
+
+### Компьютеры / Ноутбуки
+- Windows 11 Pro
+- Ubuntu 22.04 LTS
+
+### Телефоны / Планшеты
+- Android 13
+- iOS 16
+
+## 🔒 Публичные ключи
+
+```
+# Скоро будут добавлены
+```
+
+---
+
+## 👯 Мои проекты:
 
 ### [Telegram Бот для Анализа Метаданных Фотографий](https://github.com/looapz/telegram-photo-metadata-bot)
 
 Бот для Telegram, который анализирует метаданные фотографий, включая EXIF данные. Отправьте фотографию боту, и он покажет всю доступную информацию о ней.
 
 ### [Другие проекты скоро появятся...]
-
-## 📝 Последние статьи и заметки
-
-- [Скоро появятся...]
 
 ---
 
